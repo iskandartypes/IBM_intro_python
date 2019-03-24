@@ -1,5 +1,5 @@
 # IBM_intro_python
-Jupyter notebooks for IBM/Cognitive Class's Applied Data Science with Python.
+Jupyter notebooks for IBM/Cognitive Class's [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python/). Sorted by class.
 
 Mostly kept as a sort of public copy of the notebooks I'm currently scribbling in; I reckon I might as well put 'em up.
 
